@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
+---
+I am learning hard to become a software engineer. When I was in college, I majored in electronic engineering and decided on a career path in semiconductor circuit design. In the future, I want to study Python, C, and C++, and integrate artificial intelligence and big data technology with circuit design.
+You can find me on Instagram `@fce_jh.ethan`
+---
+# 🧰 My toolbox
+![Python](https://www.python.org/static/img/python-logo.png)
 
-<!--
-**Eonieoli/Eonieoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![C](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/140px-The_C_Programming_Language_logo.svg.png)
 
-Here are some ideas to get you started:
+![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+print("Hello World!")
+printf("Hello World!");
+cout << "Hello World!" << endl;
+```
