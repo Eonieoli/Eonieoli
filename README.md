@@ -1,8 +1,14 @@
 # Hi there 👋
 ---
-I am learning hard to become a software engineer. When I was in college, I majored in electronic engineering and decided on a career path in semiconductor circuit design. In the future, I want to study Python, C, and C++, and integrate artificial intelligence and big data technology with circuit design.
+I am learning hard to become a software engineer.
+
+When I was in college, I majored in electronic engineering and decided on a career path in semiconductor circuit design.
+
+In the future, I want to study Python, C, and C++, and integrate artificial intelligence and big data technology with circuit design.
+
 You can find me on Instagram `@fce_jh.ethan`
 ---
+
 # 🧰 My toolbox
 ![Python](https://www.python.org/static/img/python-logo.png)
 
