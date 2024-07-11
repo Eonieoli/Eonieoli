@@ -6,6 +6,8 @@ When I was in college, I majored in electronic engineering and decided on a care
 
 In the future, I want to study Python, C, and C++, and integrate artificial intelligence and big data technology with circuit design.
 
+But I'm still just a "응애".
+
 You can find me on Instagram `@fce_jh.ethan`
 ---
 
